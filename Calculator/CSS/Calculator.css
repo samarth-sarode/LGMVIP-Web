@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	background-color: ;
+}
+.div{
+	position: absolute;
+	top: 20%;
+	left: 20%;
+	width: 24%;
+	border: 2px ridge;
+	height: 60%;
+	background-color: rgb(293,253,96);
+}
+.buttons{
+	padding: 3px;
+	margin: 8px;
+	font-size: 45px;
+	width: 95%;
+	background-color: rgb(160,165,166);
+}
+.button{
+	font-size: 20px;
+	margin: 0px;
+	;
+	width: 100%;
+}
+.display{
+	width: 95%;
+	margin: auto;
+	font-size: 36px;
+	text-align: right;
+	margin: 5px;
+	height: 25%;
+	overflow: scroll;
+
+
+}
+#equal{
+	position: absolute;
+	width: 70%;
+	margin-top: ;
+	font-size: 25px;
+	padding: 5px;
+	background-color: rgb(255,239,127);
+}
+#equal:hover{
+	
+	background-color: rgb(65,205,247);
+}
+#c{
+	background-color: rgb(255,115,115);
+}
+#c:hover{
+	background-color: rgb(250,21,21);
+
+}
+.btn{
+	text-align: center;
+	padding: 10px;
+	margin: 10px 15px;
+	font-size: 25px;
+	background-color: whitesmoke;
+
+}
+.btn:hover{
+	background-color: rgb(65,205,247);
+}
